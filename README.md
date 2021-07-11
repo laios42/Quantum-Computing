@@ -27,27 +27,37 @@ the right answers.
 
 You might ask, how could you possibly concentrate all this on the right answer when you yourself don't know in advance which answer is the right one? This is exactly why designing quantum algorithms is so difficult and why we have a whole field that's been studying it for decades.
 
+
+![Quantum Algorithm](Quantum-Algorithms.png)
+
+An algorithm is a step-by-step procedure to perform a calculation, or a sequence of instructions to solve a problem, where each step can be performed on a computer. Therefore, an algorithm is a quantum algorithm when it can be performed on a quantum computer. In principle it is possible to run all classical algorithms on a quantum computer. However, the term quantum algorithm is applied to algorithms of which at least one of the steps is distinctly ‘quantum’, using superposition or entanglement.
+
 INSTRUCTIONS - These instructions are used to manipulate probabilities of the different states.
 
 Hadamard Initialisation - we apply Hadamard gate on a quit to create superposition.
 
 5 types of instructions- 
 
-MEASURE
-HADAMARD
-PHASE
-T
-CNOT
+- MEASURE
+- HADAMARD
+- PHASE
+- T
+- CNOT
 
-* all the above instructions act on one qubit except CNOT gate (it acts on two qubits). These instructions act like gates in classical computers, but these are not physically etched on the chip, these are instructions that you apply on these probabilities.
+all the above instructions act on one qubit except CNOT gate (it acts on two qubits). These instructions act like gates in classical computers, but these are not physically etched on the chip, these are instructions that you apply on these probabilities.
 
-* Entanglement - when two sub-atomic particles are described by one wave function.
+Entanglement - when two sub-atomic particles are described by one wave function.
 
-* Coherence time - it is the time that the quantum information lasts. And that matters because it determines how many different operations can be performed before the quantum information is lost.
+Coherence time - it is the time that the quantum information lasts. And that matters because it determines how many different operations can be performed before the quantum information is lost.
+
+### **The power of quantum algorithms**
+
+Problems that are fundamentally unsolvable by classical algorithms (so called undecidable problems) cannot be solved by quantum algorithms either. The added value of quantum algorithms is that they can solve some problems significantly faster than classical algorithms. The best-known examples are Shor’s algorithm and Grover’s algorithm. Shor’s algorithm is a quantum algorithm for integer factorization. Simply put, when given an integer N, it will find its prime factors. It can solve this problem exponentially faster than the best-known classical algorithm can. Grover’s algorithm can search an unstructured database or unordered list quadratically faster than the best classical algorithm with this purpose.
 
 
 
-**-------My reason for learning Quantum Computing------**
+**~~~~~~ My reason for learning Quantum Computing ~~~~~~ **
+
 It is intellectually interesting. It is completely outside my intuitive thinking, like fundamentally how a Quantum Computer can out-perform a Classical Computer.
 
 
