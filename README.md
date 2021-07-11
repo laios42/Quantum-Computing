@@ -1,11 +1,12 @@
 # **Quantum Computing**
 
-![Quantum Computer](3.jpeg)
+![Quantum Computer](4.jpeg)
+
 
 
 Rather than store information using bits represented by 0s or 1s as conventional digital computers do, quantum computers use quantum bits, or qubits, to encode information as 0s, 1s, or both at the same time. This superposition of states—along with the other quantum mechanical phenomena of entanglement and tunneling—enables quantum computers to manipulate enormous combinations of states at once.
 
-Quantum Computers should be thought of a special purpose machine that can solve certain problems a lot  better. Quantum Computers are not going to replace Classical computers, they are going to be used as co-processors for Classical Computers like the GPUs. We can perform complex instructions on Quantum Computers all day, but at the end of the day we need Classical Computers to interpret the calculations and make them understandable to us.
+Quantum Computers should be thought of aa special purpose machines that can solve certain problems a lot  better. Quantum Computers are not going to replace Classical computers, they are going to be used as co-processors for Classical Computers like the GPUs. We can perform complex instructions on Quantum Computers all day, but at the end of the day we need Classical Computers to interpret the calculations and make them understandable to us.
 
 QUBITS -
 
@@ -26,12 +27,11 @@ the right answers.
 
 You might ask, how could you possibly concentrate all this on the right answer when you yourself don't know in advance which answer is the right one? This is exactly why designing quantum algorithms is so difficult and why we have a whole field that's been studying it for decades.
 
-
-Instructions - 
+INSTRUCTIONS - These instructions are used to manipulate probabilities of the different states.
 
 Hadamard Initialisation - we apply Hadamard gate on a quit to create superposition.
 
-5 types of instructions- these instructions are used to manipulate probabilities of the different states.
+5 types of instructions- 
 
 MEASURE
 HADAMARD
@@ -41,22 +41,18 @@ CNOT
 
 * all the above instructions act on one qubit except CNOT gate (it acts on two qubits). These instructions act like gates in classical computers, but these are not physically etched on the chip, these are instructions that you apply on these probabilities.
 
+* Entanglement - when two sub-atomic particles are described by one wave function.
 
-Entanglement - when two sub-atomic particles are described by one wave function.
-
-Coherence time - it is the time that the quantum information lasts. And that matters because it determines how many different operations can be performed before the quantum information is lost.
-
+* Coherence time - it is the time that the quantum information lasts. And that matters because it determines how many different operations can be performed before the quantum information is lost.
 
 
--------My reason for learning Quantum Computing-
-It is intellectually interesting, its completely outside my intuitive thinking, like fundamentally how a Quantum Computer can out perform a Classical Computer.
 
+**-------My reason for learning Quantum Computing------**
+It is intellectually interesting. It is completely outside my intuitive thinking, like fundamentally how a Quantum Computer can out-perform a Classical Computer.
 
 
 
 
-
--------Quantum Circuits and Algorithms implementation on IBM Quantum Cloud
 
 
 
