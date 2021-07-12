@@ -55,6 +55,11 @@ Coherence time - it is the time that the quantum information lasts. And that mat
 Problems that are fundamentally unsolvable by classical algorithms (so called undecidable problems) cannot be solved by quantum algorithms either. The added value of quantum algorithms is that they can solve some problems significantly faster than classical algorithms. The best-known examples are Shor’s algorithm and Grover’s algorithm. Shor’s algorithm is a quantum algorithm for integer factorization. Simply put, when given an integer N, it will find its prime factors. It can solve this problem exponentially faster than the best-known classical algorithm can. Grover’s algorithm can search an unstructured database or unordered list quadratically faster than the best classical algorithm with this purpose.
 
 
+### **Quantum Volume**
+
+![Quantum Computer](images/Quantum-Volume.png)
+
+
 
 **~~~~~~ My reason for learning Quantum Computing ~~~~~~ **
 
