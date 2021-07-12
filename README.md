@@ -1,6 +1,6 @@
 # **Quantum Computing**
 
-![Quantum Computer](4.jpeg)
+![Quantum Computer](images/QC_1.jpeg)
 
 
 
@@ -28,7 +28,7 @@ the right answers.
 You might ask, how could you possibly concentrate all this on the right answer when you yourself don't know in advance which answer is the right one? This is exactly why designing quantum algorithms is so difficult and why we have a whole field that's been studying it for decades.
 
 
-![Quantum Algorithm](Quantum-Algorithms.png)
+![Quantum Algorithm](images/Quantum-Algorithms.png)
 
 An algorithm is a step-by-step procedure to perform a calculation, or a sequence of instructions to solve a problem, where each step can be performed on a computer. Therefore, an algorithm is a quantum algorithm when it can be performed on a quantum computer. In principle it is possible to run all classical algorithms on a quantum computer. However, the term quantum algorithm is applied to algorithms of which at least one of the steps is distinctly ‘quantum’, using superposition or entanglement.
 
