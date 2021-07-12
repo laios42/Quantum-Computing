@@ -1,1 +1,2 @@
-![Grover Circuit](grover_circuit_high_level.png)
+### **Grover Circuit**
+![Grover Circuit](images/grover_circuit_high_level.png)
